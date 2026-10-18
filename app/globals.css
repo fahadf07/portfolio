@@ -1,14 +1,14 @@
 @import "tailwindcss";
 
 @theme {
-  --color-ink: #000000;
-  --color-card: #0c0c0e;
-  --color-line: rgba(255, 255, 255, 0.08);
-  --color-fg: #f5f5f7;
-  --color-mute: #86868b;
-  --color-blue: #2997ff;
-  --color-violet: #bf5af2;
-  --color-rose: #ff375f;
+  --color-ink: #000000;                      /* Page Background */
+  --color-card: #0c0c0e;                     /* Card Backgrounds */
+  --color-line: rgba(255, 255, 255, 0.08);   /* Card Outline */
+  --color-fg: #f5f5f7;                       /* Main Text */
+  --color-mute: #86868b;                     /* Grey Secondary Text */ 
+  --color-blue: #db7e2c;                     /* Orange, Accent 1 */
+  --color-violet: #209643;                   /* Green, Accent 2 */
+  --color-rose: #484ac7;                     /* Blue, Accent 3 */
   --font-sans: -apple-system, BlinkMacSystemFont, "SF Pro Display", "SF Pro Text", "Inter", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
   --font-mono: ui-monospace, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace;
 }
