@@ -4,7 +4,7 @@
   --color-ink: #000000;                      /* Page Background */
   --color-card: #0c0c0e;                     /* Card Backgrounds */
   --color-line: rgba(255, 255, 255, 0.08);   /* Card Outline */
-  --color-fg: #f5f5f7;                       /* Main Text */
+  --color-fg: #e6e6e6;                       /* Main Text */
   --color-mute: #86868b;                     /* Grey Secondary Text */ 
   --color-blue: #db7e2c;                     /* Orange, Accent 1 */
   --color-violet: #209643;                   /* Green, Accent 2 */
